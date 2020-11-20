@@ -2,7 +2,7 @@
 name: Siddhant Keshkar
 email: siddhantkeshkar@gmail.com
 #canonical_url: https://siddhantkeshkar.com
-keywords: "Software Engineer, Java, Python, Automation, Machine Learning, Startups"
+keywords: "Software Engineer, Java, Python, C++, Machine Learning, Startups"
 skills: "C.S. Grad. Student at CU Boulder"
 baseurl:
 
@@ -10,7 +10,7 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/siddhant-keshkar-42594b57/
+    url: https://www.linkedin.com/in/siddhant-keshkar/
   - title: instagram
     url: https://www.instagram.com/dslr_bina_photography/
   - title: twitter
